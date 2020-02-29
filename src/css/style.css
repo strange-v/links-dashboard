@@ -74,18 +74,18 @@ a.site-card:hover {
 }
 
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 650px) {
 	.container {
-		width: 630px;
+		width: 610px;
 	}
 }
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 950px) {
 	.container {
-		width: 930px;
+		width: 910px;
 	}
 }
-@media screen and (min-width: 1300px) {
+@media screen and (min-width: 1250px) {
 	.container {
-		width: 1230px;
+		width: 1210px;
 	}
 }
