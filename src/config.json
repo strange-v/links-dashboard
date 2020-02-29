@@ -1,0 +1,79 @@
+{
+	"title": "Dashboard",
+	"categories": [
+		{
+			"title": "Installed",
+			"items": [
+				{
+					"title": "Webmin",
+					"description": "Webmin is a web-based interface for system administration for Unix.",
+					"icon": "images/webmin.png",
+					"url": "https://localhost:10000",
+					"localhost": true
+				},
+				{
+					"title": "Transmission",
+					"description": "Transmission is a BitTorrent client which features a variety of user interfaces on top of a cross-platform back-end.",
+					"icon": "images/transmission.svg",
+					"url": "http://localhost:9091",
+					"localhost": true
+				},
+				{
+					"title": "NGINX",
+					"description": "Nginx is a web server which can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache.",
+					"icon": "images/nginx.svg",
+					"url": "http://localhost",
+					"localhost": true
+				},
+				{
+					"title": "PHP",
+					"description": "PHP is a popular general-purpose scripting language that is especially suited to web development.",
+					"icon": "images/php.svg",
+					"url": "http://localhost/info.php",
+					"localhost": true
+				}
+			]
+		},
+		{
+			"title": "Useful",
+			"items": [
+				{
+					"title": "Transmission Remote GUI",
+					"description": "A cross platform front-end for the Transmission Bit-Torrent client.",
+					"icon": "images/transmission.svg",
+					"url": "https://sourceforge.net/projects/transgui"
+				},
+				{
+					"title": "Plex",
+					"description": "Plex is a client–server media player system and software suite comprising two main components.",
+					"icon": "images/plex.svg",
+					"url": "https://www.plex.tv"
+				},
+				{
+					"title": "Node-RED",
+					"description": "Node-RED is a programming tool for wiring together hardware devices, APIs and online services.",
+					"icon": "images/node-red.svg",
+					"url": "https://nodered.org"
+				},
+				{
+					"title": "Grafana",
+					"description": "Grafana is the open source analytics and monitoring solution for every database.",
+					"icon": "images/grafana.svg",
+					"url": "https://grafana.com"
+				},
+				{
+					"title": "InfluxDB",
+					"description": "InfluxDB is the open source time series database.",
+					"icon": "images/influxdb.svg",
+					"url": "https://www.influxdata.com"
+				},
+				{
+					"title": "MariaDB",
+					"description": "MariaDB Server is one of the most popular open source relational databases.",
+					"icon": "images/mariadb.svg",
+					"url": "https://mariadb.org"
+				}
+			]
+		}
+	]
+}
